@@ -1,0 +1,6 @@
+pyspark
+boto3
+awswrangler
+pyarrow
+pandas
+numpy
